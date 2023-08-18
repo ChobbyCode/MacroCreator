@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Configurations>Debug;Release;Unstable</Configurations>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="InputSimulatorPlus" Version="1.0.7" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="macros\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="applications\DELETE.txt">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="saves\locations.tmp">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="templates\application.tmp">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
+</Project>

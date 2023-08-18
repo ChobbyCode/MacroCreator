@@ -1,0 +1,9 @@
+﻿#--------------MacroCreator Application Presets Settings--------------
+
+//The name of the application, get it through Task Manager > Details
+Application Name = notepad
+
+
+//Valid Responses | Default/Null/Valid Unicode Characters
+Escape Character = Default
+

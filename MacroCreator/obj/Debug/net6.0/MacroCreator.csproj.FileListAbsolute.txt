@@ -1,0 +1,15 @@
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\bin\Debug\net6.0\MacroCreator.exe
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\bin\Debug\net6.0\MacroCreator.deps.json
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\bin\Debug\net6.0\MacroCreator.runtimeconfig.json
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\bin\Debug\net6.0\MacroCreator.dll
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\bin\Debug\net6.0\MacroCreator.pdb
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.csproj.AssemblyReference.cache
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.AssemblyInfoInputs.cache
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.AssemblyInfo.cs
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.csproj.CoreCompileInputs.cache
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.dll
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\refint\MacroCreator.dll
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.pdb
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\MacroCreator.genruntimeconfig.cache
+F:\Jacob Code\MacroCreator\v21de\MacroCreator\MacroCreator\obj\Debug\net6.0\ref\MacroCreator.dll
